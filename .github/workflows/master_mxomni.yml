@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'WhatsBot/**'
+      - '.github/workflows/master_mxomni.yml'
   workflow_dispatch:
 
 env:

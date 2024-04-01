@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedMessagingQuickstart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c45478d590ae75e64264230d65155e13fa97e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5b033d6f8540c336f3c7508be30127f79047d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedMessagingQuickstart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedMessagingQuickstart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
